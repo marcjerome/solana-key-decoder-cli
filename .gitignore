@@ -3,4 +3,4 @@ node_modules/
 
 # Output files
 dist/
-.key.json
+key.json

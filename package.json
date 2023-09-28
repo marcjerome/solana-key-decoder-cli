@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bs58": "^5.0.0"
+    "bs58": "^5.0.0",
+    "solana-key-decoder-cli": "^1.0.4"
   },
   "repository": {
     "type": "git",
