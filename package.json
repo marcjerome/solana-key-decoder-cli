@@ -1,0 +1,18 @@
+{
+  "name": "solana-key-decoder-cli",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "solana-key-decoder-cli": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^5.0.0"
+  }
+}
