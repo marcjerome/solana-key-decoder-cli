@@ -14,5 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "bs58": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
   }
 }
